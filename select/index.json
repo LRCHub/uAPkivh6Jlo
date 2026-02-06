@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "恋と病熱",
+  "base_artist": "米津玄師",
+  "createdAt": "2026-02-06T07:37:27.125013Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "恋と病熱",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/01_恋と病熱_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "恋と病熱",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/02_恋と病熱_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "恋と病熱",
+      "artist": "Yonezu Kenshi",
+      "has_synced": true,
+      "path": "select/03_恋と病熱_Yonezu_Kenshi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋と病熱",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_恋と病熱_米津玄師.txt"
+    }
+  ]
+}
